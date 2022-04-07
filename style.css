@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+h1 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cornflowerblue;
+    font-size: 75px;
+}
+footer{
+    text-align: right;
+}
